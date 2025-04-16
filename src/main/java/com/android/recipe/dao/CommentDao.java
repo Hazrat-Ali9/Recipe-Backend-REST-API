@@ -1,5 +1,5 @@
 package com.android.recipe.dao;
-
+/*  Comment Dao sql Connection*/.
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
