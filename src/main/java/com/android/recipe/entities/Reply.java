@@ -7,9 +7,6 @@ public class Reply {
 	String user_name, reply_text;
 	Timestamp reply_time;
 	
-	
-	
-	
 	public int getComment_id() {
 		return comment_id;
 	}
