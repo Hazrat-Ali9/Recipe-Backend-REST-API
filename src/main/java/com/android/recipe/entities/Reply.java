@@ -1,5 +1,6 @@
 package com.android.recipe.entities;
-
+    
+    
 import java.sql.Timestamp;
 
 public class Reply {
