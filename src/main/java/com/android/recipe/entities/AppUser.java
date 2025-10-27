@@ -1,5 +1,5 @@
 package com.android.recipe.entities;
-
+/* App user */.
 public class AppUser {
 	int user_id;
 	String user_name, user_email,user_password;
